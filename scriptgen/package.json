@@ -1,0 +1,16 @@
+{
+  "name": "scriptgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base65536": "^3",
+    "lzma": "^2.3.2"
+  }
+}

@@ -1,0 +1,24 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  base65536:
+    specifier: ^3
+    version: 3.0.3
+  lzma:
+    specifier: ^2.3.2
+    version: 2.3.2
+
+packages:
+
+  /base65536@3.0.3:
+    resolution: {integrity: sha512-cgSrOME1MTQ+XvAZKgCsy5Rgk0tkeIw+XqmjJghIIHkySf10kWLtKg8JCuMXARmX2bJ6PxgpZ2dkKRuf1Wf1/g==}
+    dev: false
+
+  /lzma@2.3.2:
+    resolution: {integrity: sha512-DcfiawQ1avYbW+hsILhF38IKAlnguc/fjHrychs9hdxe4qLykvhT5VTGNs5YRWgaNePh7NTxGD4uv4gKsRomCQ==}
+    hasBin: true
+    dev: false
